@@ -54,6 +54,5 @@
 ## 📫 Sosyal Medya
 
 <p align="left">
-<a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://twitter.com/yourtwitter" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="twitter" /></a>
+<a href="https://www.linkedin.com/in/batuhan-yasak-385714333/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 </p>

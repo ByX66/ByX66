@@ -11,9 +11,9 @@
 
 - 👨‍💻 Şu anda mobil ve web odaklı yazılım projeleri geliştiriyorum.  
 - 🧠 Flutter, Next.js, Firebase ve Supabase üzerine çalışıyorum.  
-- 🚀 Kurucusu olduğum [**Tekvion Software**](https://tekvion.com) ile profesyonel yazılım çözümleri sunuyorum.  
+- 🚀 Kurucusu olduğum [**Tekvion Software**](https://tekvionsoftware.com) ile profesyonel yazılım çözümleri sunuyorum.  
 - 🎯 Hedefim: Basit ama etkili ürünler geliştirerek teknolojiyle insanları buluşturmak.  
-- 📫 Bana ulaş: **batuyasak@gmail.com**
+- 📫 Bana ulaş: **batuyasak6@gmail.com**
 
 ---
 

@@ -33,7 +33,7 @@
 > Flutter ile geliştirilmiş fal uygulaması (Tarot, Kahve, Burç).  
 > 🧙‍♀️ Mistik arayüz | Firebase veritabanı | Kullanıcı dostu deneyim
 
-![Lumaro Tarot](https://raw.githubusercontent.com/ByX66/lumaro-tarot/main/screenshots/home.png)
+![Lumaro Tarot](https://github.com/ByX66/ByX66/blob/main/screenshots/LumaroTarot.png)
 
 ---
 
@@ -41,7 +41,7 @@
 > Şirket web sitesi tasarımı – modern, hızlı, güvenli.  
 > 💻 Next.js + Tailwind CSS | Dark Theme | Responsive UI
 
-![Tekvion Software](https://raw.githubusercontent.com/ByX66/tekvion-software/main/screenshots/home.png)
+![Tekvion Software](https://github.com/ByX66/ByX66/blob/main/screenshots/TekvionSoftware.png)
 
 ---
 

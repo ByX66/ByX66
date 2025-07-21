@@ -37,7 +37,7 @@
 
 ---
 
-### 💼 [Tekvion Software](https://github.com/ByX66/tekvion-software)
+### 💼 [Tekvion Software](https://tekvionsoftware.com)
 > Şirket web sitesi tasarımı – modern, hızlı, güvenli.  
 > 💻 Next.js + Tailwind CSS | Dark Theme | Responsive UI
 
